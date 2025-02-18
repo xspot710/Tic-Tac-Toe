@@ -1,6 +1,6 @@
-# G_TTT
+# Tic-Tac-Toe
 
-G_TTT is a project that utilizes Q-Learning to train an agent to play Tic-Tac-Toe.  
+Tic-Tac-Toe is a project that utilizes Q-Learning to train an agent to play Tic-Tac-Toe.  
 The goal is to explore reinforcement learning techniques in turn-based games and implement model training, visualizing the learning process, and saving Q-tables.
 
 ## Project Structure
